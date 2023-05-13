@@ -11,3 +11,10 @@ import "channels"
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
+
+$(function(){
+  $('.box1').css({
+    'background-color': '#0000FF',
+    'height': '100px'
+  });
+});
