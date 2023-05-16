@@ -7,14 +7,9 @@ import Rails from "@rails/ujs"
 import Turbolinks from "turbolinks"
 import * as ActiveStorage from "@rails/activestorage"
 import "channels"
+import 'jquery'
+import "script.js"
 
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
-
-$(function(){
-  $('.box1').css({
-    'background-color': '#0000FF',
-    'height': '100px'
-  });
-});
