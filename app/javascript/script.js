@@ -6,3 +6,10 @@ $(document).ready(function () {
     $(this).css('color','red');
   });
 });
+
+$(function(){
+  $('.box1').css({
+    'background-color': '#0000FF',
+    'height': '100px'
+  });
+});
