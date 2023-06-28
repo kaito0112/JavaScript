@@ -1,0 +1,2 @@
+class AreaComment < ApplicationRecord
+end

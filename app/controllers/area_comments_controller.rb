@@ -1,0 +1,2 @@
+class AreaCommentsController < ApplicationController
+end
