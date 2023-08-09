@@ -1,0 +1,2 @@
+module NetsHelper
+end
