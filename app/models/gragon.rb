@@ -1,0 +1,2 @@
+class Gragon < ApplicationRecord
+end

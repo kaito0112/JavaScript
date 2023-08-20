@@ -1,0 +1,2 @@
+class GragonsController < ApplicationController
+end
