@@ -1,0 +1,2 @@
+module CloretsHelper
+end

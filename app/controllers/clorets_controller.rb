@@ -1,0 +1,2 @@
+class CloretsController < ApplicationController
+end
